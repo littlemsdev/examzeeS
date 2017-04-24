@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "Ezamzee"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "Ezamzee"
+        }
+    }
+}

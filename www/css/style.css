@@ -1,0 +1,41 @@
+body {
+  background: #e4e4e4;
+}
+
+.logo {
+    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+    position:absolute;             /* position in the center of the screen */
+    left:50%;
+    top:50%;
+    height:50px;                   /* text area height */
+    width:225px;                   /* text area width */
+    text-align:center;
+    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
+    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
+                                   /* offset horizontal: half of text area width */
+}
+
+.navbar-inverse {
+  background: #364150 !important;
+  border-color: #364150 !important;
+}
+.navbar-inverse .navbar-nav > li > a,
+.navbar-inverse .navbar-brand {
+  color: #fff !important;
+}
+.heading {
+  margin:0;
+  display: inline-block;
+  margin: 0;
+  display: inline-block;
+  margin-left: 50px;
+  font-weight: 200;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+.main-box {
+  margin-top: 30px;
+}
+table td a {
+  color: #45b6af;
+}
