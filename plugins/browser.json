@@ -63,6 +63,12 @@
         },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-bluetooth-status": {
+            "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-bluetooth-serial": {
+            "PACKAGE_NAME": "Ezamzee"
         }
     },
     "dependent_plugins": {

@@ -1,12 +1,12 @@
 document.addEventListener("deviceready", init, false);
 function init() {
-  alert(cordova.file.externalApplicationStorageDirectory);
+
 	window.resolveLocalFileSystemURL(cordova.file.externalApplicationStorageDirectory, function(f) {
 		console.dir(f);
 	}, fail);
 
 	//This alias is a read-only pointer to the app itself
-	window.resolveLocalFileSystemURL(cordova.file.externalApplicationStorageDirectory + "Examzee/exam.txt", gotFile, fail);
+	window.resolveLocalFileSystemURL(cordova.file.externalApplicationStorageDirectory + "exam.txt", gotFile, fail);
 
 }
 
