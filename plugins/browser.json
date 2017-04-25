@@ -34,9 +34,6 @@
         "cordova-plugin-dialogs": {
             "PACKAGE_NAME": "Ezamzee"
         },
-        "cordova-plugin-file-transfer": {
-            "PACKAGE_NAME": "Ezamzee"
-        },
         "cordova-plugin-geolocation": {
             "PACKAGE_NAME": "Ezamzee"
         },
@@ -65,9 +62,6 @@
             "PACKAGE_NAME": "Ezamzee"
         },
         "cordova-plugin-bluetooth-status": {
-            "PACKAGE_NAME": "Ezamzee"
-        },
-        "cordova-plugin-bluetooth-serial": {
             "PACKAGE_NAME": "Ezamzee"
         }
     },

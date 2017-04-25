@@ -440,30 +440,6 @@ module.exports = [
         ]
     },
     {
-        "file": "plugins/cordova-plugin-file-transfer/www/FileTransferError.js",
-        "id": "cordova-plugin-file-transfer.FileTransferError",
-        "pluginId": "cordova-plugin-file-transfer",
-        "clobbers": [
-            "window.FileTransferError"
-        ]
-    },
-    {
-        "file": "plugins/cordova-plugin-file-transfer/www/FileTransfer.js",
-        "id": "cordova-plugin-file-transfer.FileTransfer",
-        "pluginId": "cordova-plugin-file-transfer",
-        "clobbers": [
-            "window.FileTransfer"
-        ]
-    },
-    {
-        "file": "plugins/cordova-plugin-file-transfer/www/browser/FileTransfer.js",
-        "id": "cordova-plugin-file-transfer.BrowserFileTransfer",
-        "pluginId": "cordova-plugin-file-transfer",
-        "clobbers": [
-            "window.FileTransfer"
-        ]
-    },
-    {
         "file": "plugins/cordova-plugin-globalization/www/GlobalizationError.js",
         "id": "cordova-plugin-globalization.GlobalizationError",
         "pluginId": "cordova-plugin-globalization",
@@ -610,22 +586,6 @@ module.exports = [
         "clobbers": [
             "cordova.plugins.BluetoothStatus"
         ]
-    },
-    {
-        "file": "plugins/cordova-plugin-bluetooth-serial/www/bluetoothSerial.js",
-        "id": "cordova-plugin-bluetooth-serial.bluetoothSerial",
-        "pluginId": "cordova-plugin-bluetooth-serial",
-        "clobbers": [
-            "window.bluetoothSerial"
-        ]
-    },
-    {
-        "file": "plugins/cordova-plugin-bluetooth-serial/src/browser/bluetoothSerial.js",
-        "id": "cordova-plugin-bluetooth-serial.BluetoothSerial_browser",
-        "pluginId": "cordova-plugin-bluetooth-serial",
-        "clobbers": [
-            "window.bluetoothSerial"
-        ]
     }
 ];
 module.exports.metadata = 
@@ -642,7 +602,6 @@ module.exports.metadata =
     "cordova-plugin-device-motion": "1.2.4",
     "cordova-plugin-device-orientation": "1.0.6",
     "cordova-plugin-dialogs": "1.2.1",
-    "cordova-plugin-file-transfer": "1.5.1",
     "cordova-plugin-geolocation": "2.1.0",
     "cordova-plugin-globalization": "1.0.6",
     "cordova-plugin-inappbrowser": "1.3.0",
@@ -652,8 +611,7 @@ module.exports.metadata =
     "cordova-plugin-statusbar": "2.1.3",
     "cordova-plugin-vibration": "2.1.4",
     "cordova-plugin-whitelist": "1.2.2",
-    "cordova-plugin-bluetooth-status": "1.0.4",
-    "cordova-plugin-bluetooth-serial": "0.4.7"
+    "cordova-plugin-bluetooth-status": "1.0.4"
 }
 // BOTTOM OF METADATA
 });
