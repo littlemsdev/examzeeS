@@ -18,12 +18,8 @@ $(document).ready(function() {
       crossDomain: true,
       cache: false,
       success: function(data) {
-        if(data == "success") {
-          alert("Submitted successfully");
-          window.location.href = "student.html";
-        } else {
-          alert("error");
-        }
+        alert("Submitted successfully");
+        window.location.href = "student.html";
       }
     });
 
