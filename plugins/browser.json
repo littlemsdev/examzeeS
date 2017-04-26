@@ -63,6 +63,9 @@
         },
         "cordova-plugin-bluetooth-status": {
             "PACKAGE_NAME": "Ezamzee"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "Ezamzee"
         }
     },
     "dependent_plugins": {
